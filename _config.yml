@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ping Wu"
   avatar           : "profile.png"
-  bio/email        : "Financial Engineer; pwuing1970@gmail.com "
+  bio              : "Financial Engineer; pwuing1970@gmail.com "
   location         : "Toronto, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

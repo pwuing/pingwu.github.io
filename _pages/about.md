@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ping is learning how to create a homepage"
+title: "How to create a homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

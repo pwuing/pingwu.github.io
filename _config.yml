@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ping Wu"
+title                    : "Peter Wu"
 title_separator          : "-"
-name                     : &name "Ping Wu"
+name                     : &name "Peter Wu"
 description              : &description "personal description"
 url                      : https://pwuing.github.io/pingwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ping Wu"
+  name             : "Peter Wu"
   avatar           : "profile.png"
   bio              : "Financial Engineer; pwuing1970@gmail.com "
   location         : "Toronto, Canada"

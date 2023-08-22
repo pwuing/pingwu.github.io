@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peter Wu"
+title                    : "Ping Wu"
 title_separator          : "-"
-name                     : &name "Peter Wu"
+name                     : &name "Ping Wu"
 description              : &description "personal description"
 url                      : https://pwuing.github.io/pingwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
